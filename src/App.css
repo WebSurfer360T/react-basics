@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  width: 65%;
+  margin: 0 auto;
+}
+
+input[type="text"]{
+  padding: 10px;
+  border: 1px solid #000;
+  background: #fff;
+  border-bottom: 0;
+}
+
+input[type="text"], button{
+  padding: 10px;
+  border: 1px solid #000;
+  background: #fff;
+}
+
+button:hover {
+  background: grey;
+  color: white;
+}
